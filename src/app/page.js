@@ -1,6 +1,6 @@
 "use client"
 
-import Weather from "./weather/page"
+import Weather from "./weather/WeatherApp.js"
 
 
 

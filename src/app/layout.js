@@ -1,5 +1,5 @@
 import { Poppins } from "next/font/google";
-import "./globals.css";
+import "../app/weather/global.css";
 
 const poppins = Poppins({ subsets: ["latin"], weight: ["400"] });
 
